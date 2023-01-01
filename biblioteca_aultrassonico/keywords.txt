@@ -1,0 +1,6 @@
+# keywords  para classe
+
+biblioteca_aultrassonico KEYWORD1
+
+# keywords  para métodos
+distancia_cm KEYWORD2
